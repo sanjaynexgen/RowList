@@ -1,0 +1,91 @@
+{
+  "genres": [
+    {
+      "title": "Action",
+      "movies": [
+        {
+          "title": "John Wick",
+          "year": 2014,
+          "rating": 8.1,
+          "uri" : "pkg:/images/Sun.png"
+        },
+        {
+          "title": "The Raid 2",
+          "year": 2014,
+          "rating": 8.1,
+          "uri" : "pkg:/images/Sun.png"
+        },
+        {
+          "title": "The Matrix",
+          "year": 1999,
+          "rating": 8.7,
+          "uri" : "pkg:/images/Sun.png"
+        },
+        {
+          "title": "Inception",
+          "year": 2010,
+          "rating": 8.8,
+          "uri" : "pkg:/images/Sun.png"
+        }
+      ]
+    },
+    {
+      "title": "Comedy",
+      "movies": [
+        {
+          "title": "The Hangover",
+          "year": 2009,
+          "rating": 7.8,
+          "uri" : "pkg:/images/comedy.webp"
+        },
+        {
+          "title": "21 Jump Street",
+          "year": 2012,
+          "rating": 8.1,
+          "uri" : "pkg:/images/comedy.webp"
+        },
+        {
+          "title": "Bridesmaids",
+          "year": 2011,
+          "rating": 7.8,
+          "uri" : "pkg:/images/comedy.webp"
+        },
+        {
+          "title": "The Big Lebowski",
+          "year": 1998,
+          "rating": 8.2,
+          "uri" : "pkg:/images/comedy.webp"
+        }
+      ]
+    },
+    {
+      "title": "Horror",
+      "movies": [
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "rating": 8.3,
+          "uri" : "pkg:/images/horror.png"
+        },
+        {
+          "title": "Scream",
+          "year": 1996,
+          "rating": 7.7,
+          "uri" : "pkg:/images/horror.png"
+        },
+        {
+          "title": "The Exorcist",
+          "year": 1973,
+          "rating": 8.0,
+          "uri" : "pkg:/images/horror.png"
+        },
+        {
+          "title": "Halloween",
+          "year": 1978,
+          "rating": 8.0,
+          "uri" : "pkg:/images/horror.png"
+        }
+      ]
+    }
+  ]
+}
